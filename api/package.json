@@ -1,0 +1,12 @@
+
+{
+  "name": "amigos-do-pet-shop-api",
+  "version": "1.0.0",
+  "description": "API de agendamentos do Amigos do Pet Shop",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  }
+}
